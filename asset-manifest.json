@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/movieinfo-app/static/css/main.44d42cc5.chunk.css",
-    "main.js": "/movieinfo-app/static/js/main.768fa949.chunk.js",
-    "main.js.map": "/movieinfo-app/static/js/main.768fa949.chunk.js.map",
-    "runtime-main.js": "/movieinfo-app/static/js/runtime-main.bf80f1c8.js",
-    "runtime-main.js.map": "/movieinfo-app/static/js/runtime-main.bf80f1c8.js.map",
-    "static/js/2.5749536a.chunk.js": "/movieinfo-app/static/js/2.5749536a.chunk.js",
-    "static/js/2.5749536a.chunk.js.map": "/movieinfo-app/static/js/2.5749536a.chunk.js.map",
-    "static/js/3.7d85e349.chunk.js": "/movieinfo-app/static/js/3.7d85e349.chunk.js",
-    "static/js/3.7d85e349.chunk.js.map": "/movieinfo-app/static/js/3.7d85e349.chunk.js.map",
-    "index.html": "/movieinfo-app/index.html",
-    "static/css/main.44d42cc5.chunk.css.map": "/movieinfo-app/static/css/main.44d42cc5.chunk.css.map",
-    "static/js/2.5749536a.chunk.js.LICENSE.txt": "/movieinfo-app/static/js/2.5749536a.chunk.js.LICENSE.txt"
+    "main.css": "/moviesinfo-app/static/css/main.44d42cc5.chunk.css",
+    "main.js": "/moviesinfo-app/static/js/main.768fa949.chunk.js",
+    "main.js.map": "/moviesinfo-app/static/js/main.768fa949.chunk.js.map",
+    "runtime-main.js": "/moviesinfo-app/static/js/runtime-main.44d749f5.js",
+    "runtime-main.js.map": "/moviesinfo-app/static/js/runtime-main.44d749f5.js.map",
+    "static/js/2.5749536a.chunk.js": "/moviesinfo-app/static/js/2.5749536a.chunk.js",
+    "static/js/2.5749536a.chunk.js.map": "/moviesinfo-app/static/js/2.5749536a.chunk.js.map",
+    "static/js/3.7d85e349.chunk.js": "/moviesinfo-app/static/js/3.7d85e349.chunk.js",
+    "static/js/3.7d85e349.chunk.js.map": "/moviesinfo-app/static/js/3.7d85e349.chunk.js.map",
+    "index.html": "/moviesinfo-app/index.html",
+    "static/css/main.44d42cc5.chunk.css.map": "/moviesinfo-app/static/css/main.44d42cc5.chunk.css.map",
+    "static/js/2.5749536a.chunk.js.LICENSE.txt": "/moviesinfo-app/static/js/2.5749536a.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.bf80f1c8.js",
+    "static/js/runtime-main.44d749f5.js",
     "static/js/2.5749536a.chunk.js",
     "static/css/main.44d42cc5.chunk.css",
     "static/js/main.768fa949.chunk.js"
