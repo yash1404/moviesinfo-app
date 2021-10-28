@@ -1,0 +1,111 @@
+*{
+    padding:0;
+    margin:0;
+    box-sizing: border-box;
+}
+
+.nav{
+    height:70px;
+    width:100%;
+    background-color:rgb(47, 3, 51);
+    display:flex;
+    justify-content: space-between;
+    align-items:center;
+    padding:0 10px;
+
+}
+.icon{
+display: flex;
+justify-content: space-evenly;
+align-items: center;
+}
+ .icon h1{
+    color:white;
+    font-size:1.5rem;
+    font-weight:700;
+
+}
+.icon img{
+    height:40px;
+    width:40px;
+    margin-left:10px;
+}
+.nav form .searchbar{
+    height:40px;
+    width:500px;
+    border:2px solid white;
+    border-radius:10px;
+    outline:none;
+    color:black;
+    text-transform:capitalize;
+    text-decoration:none;
+    font-size:1rem;
+    margin-right:30px;
+
+
+
+}
+.nav form .searchbar::placeholder{
+    font-size:0.8rem;
+    color:rgb(150, 144, 144);
+    padding-left:10px;
+    text-transform: capitalize;
+}
+.search{
+    height:40px;
+    width:100px;
+    background-color:transparent;
+    border:2px solid white;
+    border-radius:8px;
+    color:white;
+    cursor:pointer;
+    font-size:1rem;
+    letter-spacing:1.5px;
+    display: none;
+    
+}
+.search:hover{
+    color:black;
+    background-color:white;
+
+}
+
+@media only screen and (max-width:500px){
+    .nav{
+        height:150px;
+        display:flex;
+        justify-content: center;
+        align-items:center;
+        flex-direction:column;
+    
+    } 
+
+    .icon{
+       margin-bottom: 10px;
+        }
+         .icon h1{
+
+            font-size:1.2rem;
+        
+        }
+        .icon img{
+            height:30px;
+            width:30px;
+            margin-left:10px;
+        }
+        .nav form .searchbar{
+            height:40px;
+            width:100%;
+
+        }
+        .search{
+            height:40px;
+            width:100%;
+            margin-top:10px;
+            display:block;
+           
+            
+        }
+       
+        
+}
